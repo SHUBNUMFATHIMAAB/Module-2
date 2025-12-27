@@ -4,15 +4,15 @@
 To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
 
 ## 🧠 Algorithm
-1. Assign the value `25` to a variable `n`.
+1. Assign the value `16` to a variable `x`.
 2. Use the built-in `bin()` function to convert the number to binary.
 3. Print the result.
 
 ## 🧾 Program
-<img width="351" height="61" alt="image" src="https://github.com/user-attachments/assets/1db35714-281e-4312-9e45-34f7ba3ea550" />
+<img width="289" height="48" alt="image" src="https://github.com/user-attachments/assets/49c111f1-42b3-4b49-ac9d-d1e4c5556e25" />
 
 ## Output
-<img width="419" height="246" alt="image" src="https://github.com/user-attachments/assets/d046a21a-18e2-4646-b477-e393e2a0a7e3" />
+<img width="398" height="163" alt="image" src="https://github.com/user-attachments/assets/af9412b2-3564-439e-8a54-115d63772296" />
 
 ## Result
 Thus the Python program to convert the number "16" into its "binary representation" using built-in Python functions is created.
