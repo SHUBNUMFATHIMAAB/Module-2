@@ -27,9 +27,11 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 ---
 
 ## 🧪 Program
-Add Code Here
+<img width="380" height="217" alt="image" src="https://github.com/user-attachments/assets/942f7221-ab50-4774-8320-668029ad4ee9" />
 
-## Sample Output
+## Output
+<img width="533" height="564" alt="image" src="https://github.com/user-attachments/assets/0a174484-3d72-49f7-8c56-617c8d395acd" />
 
 ## Result
+Thus the python program that generates "pascal's triangle" using numbers.The number of rows is accepted from the user is created.
 
